@@ -1,0 +1,5 @@
+synapse - a semantic
+====================
+Synapse is a semantic launcher written in Vala that you can use to start applications as well as find and access relevant documents and files.
+
+NOTE : Removing the support Zeitgeist engine.
